@@ -1,4 +1,4 @@
-# simpletokenmanage-cairo
+# tokenmanage-cairo
 
 EOA wallet has no state and code storage, and the smart contract wallet is different.
 
