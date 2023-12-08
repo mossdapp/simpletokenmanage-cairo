@@ -1,2 +1,2 @@
-mod simpletoken_manage;
+mod token_manage;
 mod interface;
